@@ -1,5 +1,5 @@
 # gosubscene (v0.0.1)
-A simple API wrapper for [subscene.com](subscene.com) witten in golang.
+A simple API wrapper for [subscene.com](https://subscene.com) written in golang.
 
 ## Usage
 
